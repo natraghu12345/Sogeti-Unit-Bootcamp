@@ -22,7 +22,7 @@ class App extends React.Component {
   render(){
   return (
 <div className="App">
-      <h1>Sogeti Employee Directory</h1>
+      <h1>Sogeti Employee directory</h1>
       {this.state.employees.map((employee,index) => {
         return (
           <div className="media" key={index}>
