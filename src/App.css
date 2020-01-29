@@ -24,6 +24,15 @@
   color: white;
 }
 
+.directory-image{
+  width: 100px;
+  border-radius : 10px;
+}
+
+.directory-entry{
+  background-color: lightgray;
+  border-radius: initial;
+}
 .App-link {
   color: #61dafb;
 }
