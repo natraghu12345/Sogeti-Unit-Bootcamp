@@ -31,7 +31,7 @@ class App extends React.Component {
           <h5 className="mt-8">{employee.name}</h5>
           <p>{employee.location}</p>
           </div>
-          </div>
+          </div> 
         )
       })}
     </div>
